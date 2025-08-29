@@ -24,13 +24,13 @@ One-page Summary (8–12 bullet points) highlighting the most important insights
 
 # 🛠️ Workflow
 
-Setup & Load Data
+1. Setup & Load Data
 
 Load dataset into Colab.
 
 Explore shape, dtypes, missing values, duplicates.
 
-Data Cleaning
+2. Data Cleaning
 
 Convert installs, price, reviews, and ratings into correct formats.
 
@@ -40,13 +40,13 @@ Parse Last Updated into datetime.
 
 Standardize genres and categories.
 
-Exploratory Data Analysis
+3. Exploratory Data Analysis
 
 Univariate: Rating distribution, top categories, free vs paid apps.
 
 Bivariate: Rating vs Installs, Reviews vs Rating, Price vs Rating, Category-level averages.
 
-Insights & Recommendations
+4. Insights & Recommendations
 
 Identify high-performing categories.
 
